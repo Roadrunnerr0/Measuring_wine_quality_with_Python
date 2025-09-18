@@ -16,9 +16,7 @@ Sadece sayılar değil, görseller de çok şey anlatır. Bu projede, scatter pl
 fixed acidity, volatile acidity, citric acid, pH, alcohol ve diğer tüm değişkenler, şarabın tadını ve kalitesini etkileyen birer karakter gibi. Her bir sütun için ayrı ayrı çizdiğimiz KDE grafikleri, adeta bir şarap laboratuvarına girip, şişelerin içeriklerini mikroskopla inceliyormuşuz gibi hissettiriyor. Hangi kalite sınıfı hangi aralıkta yoğunlaşmış? Hangi değişken kaliteyi tahmin etmede daha belirleyici? Tüm bunlar artık görsel olarak parmaklarınızın ucunda.
 
 🔮 Neden Bu Proje Çok İlginç?
-Çünkü herkes şarap içiyor ama herkes veriye dayalı analiz yapmıyor. Bu proje, görsel ve sayısal analizleri birleştirerek şarap kalitesini bilimsel olarak anlamayı sağlıyor. Ayrıca, veri setinde eksik kalite sınıfları olsa bile, proje bunu otomatik olarak yönetiyor; yani her grafik sadece mevcut verileri gösteriyor ve sizi yanıltmıyor.
-
-Sonuç olarak, bu proje sadece şarap kalitesini incelemekle kalmıyor; aynı zamanda veri bilimi ile günlük yaşam deneyimlerini birleştirmeyi gösteriyor. Siz de merak ediyorsanız, veriyi keşfetmeye ve şarapların gizli hikayesini çözmeye hemen başlayabilirsiniz.
+Çünkü herkes şarap içiyor ama herkes veriye dayalı analiz yapmıyor. Bu proje, görsel ve sayısal analizleri birleştirerek şarap kalitesini bilimsel olarak anlamayı sağlıyor. Sonuç olarak, bu proje sadece şarap kalitesini incelemekle kalmıyor; aynı zamanda veri bilimi ile günlük yaşam deneyimlerini birleştirmeyi gösteriyor. Siz de merak ediyorsanız, veriyi keşfetmeye ve şarapların gizli hikayesini çözmeye hemen başlayabilirsiniz.
 
 ----------------------------------------------
 Bu uygulamada kullanılan Dataset:https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
