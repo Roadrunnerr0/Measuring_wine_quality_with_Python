@@ -22,3 +22,6 @@ fixed acidity, volatile acidity, citric acid, pH, alcohol ve diğer tüm değiş
 Bu proje sadece bir veri analizi değil, bir keşif yolculuğu. Şarap severler, veri bilimi tutkunu öğrenciler, meraklı araştırmacılar… Herkes kendi verilerini alıp bu adımları deneyebilir, kendi görsellerini oluşturabilir ve şarap dünyasını sayısal bir gözle yeniden keşfedebilir.
 
 Sonuç olarak, bu proje sadece şarap kalitesini incelemekle kalmıyor; aynı zamanda veri bilimi ile günlük yaşam deneyimlerini birleştirmeyi gösteriyor. Siz de merak ediyorsanız, veriyi keşfetmeye ve şarapların gizli hikayesini çözmeye hemen başlayabilirsiniz.
+
+----------------------------------------------
+Bu uygulamada kullanılan Dataset:https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
